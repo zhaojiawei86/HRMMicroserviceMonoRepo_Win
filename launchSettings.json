@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "Docker Compose": {
+      "commandName": "DockerCompose",
+      "commandVersion": "1.0",
+      "serviceActions": {
+        "hrm.authen.apilayer": "StartDebugging",
+        "hrm.interview.apilayer": "StartDebugging",
+        "hrm.onboard.apilayer": "StartDebugging",
+        "hrm.recruitment.apilayer": "StartDebugging"
+      }
+    }
+  }
+}
